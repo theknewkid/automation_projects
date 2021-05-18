@@ -1,0 +1,9 @@
+# These files will be ignored.
+
+#dependencies
+parabank/node_modules
+
+#testing
+parabank/cypress/videos
+parabank/cypress/screenshots
+parabank/cypress/cucumber-json
