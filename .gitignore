@@ -7,3 +7,6 @@ parabank/node_modules
 parabank/cypress/videos
 parabank/cypress/screenshots
 parabank/cypress/cucumber-json
+
+#personal
+.git-credentials
